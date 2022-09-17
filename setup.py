@@ -11,9 +11,9 @@ classifiers = [
 setup(
   name='simple-calculator',
   version='22.9.17',
-  description="A simple calculator library made with Joshua Lowe's tutorial.",
+  description='A simple calculator library made with the tutorial from Joshua Lowe.',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='',  
+  url='https://github.com/Touchcreator/Simple-Calculator',  
   author='Touchcreator',
   author_email='touchgamer95@gmail.com',
   license='MIT', 
