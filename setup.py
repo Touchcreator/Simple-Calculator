@@ -9,7 +9,7 @@ classifiers = [
 ]
  
 setup(
-  name='simple-calculator',
+  name='touchs-simple-calculator',
   version='22.9.17',
   description='A simple calculator library made with the tutorial from Joshua Lowe.',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
